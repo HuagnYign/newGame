@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"!$LiNaNa","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"linana","traits":[],"initialLevel":1,"maxLevel":99,"name":"李娜娜","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"!$BianShen","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"N1","traits":[],"initialLevel":1,"maxLevel":99,"name":"李娜娜","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"!$BianShen2","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"N2","traits":[],"initialLevel":1,"maxLevel":99,"name":"李娜娜","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"!$BianShen3","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"N3","traits":[],"initialLevel":1,"maxLevel":99,"name":"李娜娜","nickname":"","note":"","profile":""}
+]
